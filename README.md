@@ -2,7 +2,7 @@
 
 Portfólio pessoal de Thiago Rangel, com foco em negócios, dados e tecnologia.
 
-O site apresenta minha trajetória de aprendizado, áreas em desenvolvimento, um espaço reservado para futuros projetos de analytics e uma estrutura preparada para receber novos estudos de caso ao longo do tempo.
+O site apresenta minha trajetória de vendas a inteligência comercial, as ferramentas que uso e projetos publicados, como o [Aurora Market Dashboard](https://thiagorangel99.github.io/aurora-market-dashboard/).
 
 ## Estrutura
 
@@ -10,12 +10,13 @@ O site apresenta minha trajetória de aprendizado, áreas em desenvolvimento, um
 - `styles.css` — identidade visual, layout responsivo e acessibilidade visual.
 - `script.js` — interações da navegação e animações suaves.
 - `assets/eu.jpg` — foto de Thiago Rangel utilizada na apresentação inicial.
+- `assets/aurora-dashboard.jpg` — captura do Aurora Market Dashboard (dados sintéticos).
 - `assets/favicon.svg` — favicon do site.
 
 ## Links
 
 - GitHub: [ThiagoRangel99](https://github.com/ThiagoRangel99)
-- LinkedIn: [Thiago Rangel](https://www.linkedin.com/in/thiago-rangel-525601170)
+- LinkedIn: [Thiago Rangel](https://www.linkedin.com/in/thiagorangel-ic)
 
 ## Publicação
 
